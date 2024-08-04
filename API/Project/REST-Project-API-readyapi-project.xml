@@ -139,7 +139,7 @@
             <con:endpoint>https://api.github.com</con:endpoint>
             <con:request>{
  "title":"Testkeys1", 
- "key":"ssh-ed25519 AAAC3NzaC1lDI1NTqqAJIQNAAAJSCMcsaAsHNzVJ7KFLANxtaicUw8I7p3T4t4oNAAPQKJW/Lj7OPQhYXlfjut42 azuread\\asaathenaruvi@IBM-11TTPM3"
+ "key":"ssh-ed25519 <*********removed********>
 }</con:request>
             <con:originalUri>https://api.github.com/user/keys</con:originalUri>
             <con:assertion type="Valid HTTP Status Codes" id="2a33abe8-e786-44c1-9281-88c48b309114" name="Valid HTTP Status Codes">
