@@ -1,0 +1,10 @@
+{
+    "id": 1254,
+    "username": "testapi",
+    "firstName": "api",
+    "lastName": "test",
+    "email": "case@gmail.com",
+    "password": "passwrod123",
+    "phone": "9812763450",
+    "userStatus": 0
+}
